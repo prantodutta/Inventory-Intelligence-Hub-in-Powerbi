@@ -126,7 +126,7 @@ Show what the dashboard looks like.
 ### 🔹 Inventory Analysis Dashboard
 Example: ![Dasgboard Preview](https://github.com/prantodutta/Inventory-Intelligence-Hub-in-Powerbi/blob/main/Inventory%20Intelligence%20Hub.png)
 ### 🔹 Sales Performance 
-Example: ![Dasgboard Preview]()
+Example: ![Dasgboard Preview](https://github.com/prantodutta/Inventory-Intelligence-Hub-in-Powerbi/blob/main/Inventory%20Intelligence%20Hub-1.png)
 
 ---
 
