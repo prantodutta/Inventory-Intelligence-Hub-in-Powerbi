@@ -124,8 +124,8 @@ This dashboard helps businesses:
 ## 📸 Screenshots / Demos
 Show what the dashboard looks like. 
 ### 🔹 Inventory Analysis Dashboard
-Example: ![Dasgboard Preview]()
-### 🔹 Financial Performance Dashboard
+Example: ![Dasgboard Preview](https://github.com/prantodutta/Inventory-Intelligence-Hub-in-Powerbi/blob/main/Inventory%20Intelligence%20Hub.png)
+### 🔹 Sales Performance 
 Example: ![Dasgboard Preview]()
 
 ---
